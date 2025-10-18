@@ -1,0 +1,1 @@
+GitHub is a platform that hosts code, providing version control and collaboration features. It enables you and others to work together on projects from anywhere in the world. Here is a step-by-step guide to help you get started with GitHub.
